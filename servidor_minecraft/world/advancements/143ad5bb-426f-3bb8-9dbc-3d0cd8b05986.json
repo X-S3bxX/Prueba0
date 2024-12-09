@@ -1,0 +1,70 @@
+{
+  "divinerpg:overworld/root": {
+    "criteria": {
+      "divinerpg": "2024-12-09 01:11:46 +0000"
+    },
+    "done": true
+  },
+  "aoa3:overworld/by_the_books": {
+    "criteria": {
+      "legitimate": "2024-12-09 01:11:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2024-12-09 01:11:46 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2024-12-09 01:11:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-09 01:11:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-09 01:11:47 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advsrparmoryroot": {
+    "criteria": {
+      "advsrparmoryroot": "2024-12-09 01:11:47 +0000"
+    },
+    "done": true
+  },
+  "aoa3:overworld/root": {
+    "criteria": {
+      "playerjoin": "2024-12-09 01:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "beaches": "2024-12-09 01:11:46 +0000",
+      "savanna": "2024-12-09 01:14:28 +0000",
+      "plains": "2024-12-09 01:13:07 +0000"
+    },
+    "done": false
+  },
+  "cqrepoured:cqr/root": {
+    "criteria": {
+      "tick": "2024-12-09 01:11:47 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:root": {
+    "criteria": {
+      "tick": "2024-12-09 01:11:47 +0000"
+    },
+    "done": true
+  }
+}
