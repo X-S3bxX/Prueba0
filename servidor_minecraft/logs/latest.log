@@ -1,269 +1,242 @@
-[01:04:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[01:04:24] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[01:04:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[01:04:24] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[01:04:24] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[01:04:24] [main/INFO] [FML]: Searching /workspaces/Prueba0/servidor_minecraft/./mods for mods
-[01:04:24] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from bewitchment-1.12.2-0.0.22.64.jar
-[01:04:24] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Chocolate_Quest_Repoured-1.12.2-2.6.16B.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[01:04:24] [main/WARN] [FML]: The coremod CQRPlugin (team.cqr.cqrepoured.asm.CQRPlugin) is not signed!
-[01:04:24] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Galacticraft-1.12.2-4.0.6.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[01:04:24] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
-[01:04:24] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in IceAndFireRotN-1.9.1-1.3.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[01:04:24] [main/WARN] [FML]: The coremod iceandfire (com.github.alexthe666.iceandfire.asm.IceAndFirePlugin) is not signed!
-[01:04:24] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Locks-1.12.2-3.0.0.jar
-[01:04:24] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Nether-API-v1.3.0-mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[01:04:24] [main/WARN] [FML]: The coremod Nether API Plugin (git.jbredwards.nether_api.mod.asm.ASMHandler) is not signed!
-[01:04:24] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ReachFix-1.12.2-1.0.10.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[01:04:24] [main/WARN] [FML]: The coremod ReachFixPlugin (meldexun.reachfix.asm.ReachFixPlugin) is not signed!
-[01:04:24] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
-[01:04:24] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[01:04:24] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[01:04:24] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/Prueba0/servidor_minecraft/./mods/bewitchment-1.12.2-0.0.22.64.jar Service=LaunchWrapper Env=SERVER
-[01:04:24] [main/WARN] [FML]: The coremod BewitchmentFMLLoadingPlugin (com.bewitchment.core.BewitchmentFMLLoadingPlugin) is not signed!
-[01:04:24] [main/WARN] [FML]: The coremod MixinLoader (melonslise.locks.mixin.MixinLoader) is not signed!
-[01:04:24] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[01:04:24] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
-[01:04:24] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[01:04:24] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[01:04:24] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[01:04:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[01:04:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[01:04:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:04:25] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[01:04:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:04:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:04:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:04:25] [main/INFO] [MicdoodleCore]: Successfully Registered Transformer
-[01:04:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:04:25] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[01:04:25] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@1473b8c0
-[01:04:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[01:04:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:04:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:04:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:04:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[01:04:26] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[01:04:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[01:04:26] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[01:04:26] [main/INFO] [meldexun.asmutil.ASMUtil]: Transforming method: EntityPotion#isWaterSensitiveEntity(EntityLivingBase)
-[01:04:26] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.team.cqr.cqrepoured.asm.CQRClassTransformer' was detected and will no longer process meta class data
-[01:04:27] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[01:04:29] [main/INFO] [meldexun.asmutil.ASMUtil]: Transforming method: EntityPotion#isWaterSensitiveEntity(EntityLivingBase)
-[01:04:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[01:04:30] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[01:04:30] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[01:04:30] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[01:04:31] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[01:04:31] [Server thread/INFO] [FML]: Searching /workspaces/Prueba0/servidor_minecraft/./mods for mods
-[01:04:33] [Server thread/WARN] [FML]: Mod patchouli is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0-23.6
-[01:04:33] [Server thread/WARN] [FML]: Mod reachfix is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.10
-[01:04:33] [Server thread/WARN] [FML]: Mod swparasites is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v3.1
-[01:04:33] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
-[01:04:33] [Server thread/INFO] [FML]: Forge Mod Loader has identified 44 mods to load
-[01:04:33] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[01:04:33] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
-[01:04:33] [Server thread/WARN] [FML]: Missing English translation for reachfix: assets/reachfix/lang/en_us.lang
-[01:04:34] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, abyssalcraft, aether_legacy, aoa3, baubles, bewitchment, cqrepoured, crimsonwarfare, croparia, customnpcs, divinerpg, mocreatures, fm, galacticraftcore, galacticraftplanets, geckolib3, iceandfire, ic2, ee, locks, lycanitesmobs, mutantbeasts, nether_api, nocubessrparmory, patchouli, reachfix, xreliquary, spartanfire, spartanshields, spartanweaponry, srparasites, survivaltools, swparasites, thaumcraft, tombstone, toughasnails, travelersbackpack, xat, waystones, llibrary] at CLIENT
-[01:04:34] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, abyssalcraft, aether_legacy, aoa3, baubles, bewitchment, cqrepoured, crimsonwarfare, croparia, customnpcs, divinerpg, mocreatures, fm, galacticraftcore, galacticraftplanets, geckolib3, iceandfire, ic2, ee, locks, lycanitesmobs, mutantbeasts, nether_api, nocubessrparmory, patchouli, reachfix, xreliquary, spartanfire, spartanshields, spartanweaponry, srparasites, survivaltools, swparasites, thaumcraft, tombstone, toughasnails, travelersbackpack, xat, waystones, llibrary] at SERVER
-[01:04:41] [Server thread/INFO] [divinerpg.DivineRPG]: Creating registries
-[01:04:41] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[01:04:41] [Server thread/INFO] [FML]: Found 6849 ObjectHolder annotations
-[01:04:41] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[01:04:41] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[01:04:41] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[01:04:41] [Forge Version Check/INFO] [forge.VersionCheck]: [aoa3] Starting version check at https://gist.github.com/Tslat/e7afe2448fe39a695acd45764824b762/raw/
-[01:04:43] [Forge Version Check/INFO] [forge.VersionCheck]: [abyssalcraft] Starting version check at https://raw.githubusercontent.com/Shinoow/AbyssalCraft/master/version.json
-[01:04:43] [Forge Version Check/INFO] [forge.VersionCheck]: [abyssalcraft] Found status: AHEAD Target: null
-[01:04:43] [Forge Version Check/INFO] [forge.VersionCheck]: [divinerpg] Starting version check at https://raw.githubusercontent.com/DivineRPG/DivineRPG/1.12.2/divinerpg_update.json
-[01:04:43] [Forge Version Check/INFO] [forge.VersionCheck]: [divinerpg] Found status: UP_TO_DATE Target: null
-[01:04:43] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[01:04:43] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[01:04:43] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
-[01:04:43] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Starting version check at https://gist.githubusercontent.com/Gegy/a6639456aeb8edd92cbf7cbfcf9d65d9/raw/llibrary_updates.json
-[01:04:43] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Found status: UP_TO_DATE Target: null
-[01:04:43] [Forge Version Check/INFO] [forge.VersionCheck]: [xat] Starting version check at https://raw.githubusercontent.com/XzeroAir/Trinkets-1.12.2/master/update.json
-[01:04:43] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[01:04:43] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: UP_TO_DATE Target: null
-[01:04:43] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[01:04:44] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
-[01:04:44] [Server thread/INFO] [AbyssalCraft]: Starting the Integration Handler.
-[01:04:44] [Server thread/INFO] [aoa3]: Beginning fluid registration
-[01:04:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `temperature_spread`, expected `toughasnails`. This could be a intended override, but in most cases indicates a broken mod.
-[01:04:46] [Server thread/INFO] [Bewitchment]: Remember when I told you how my
-[01:04:46] [Server thread/INFO] [Bewitchment]: Kin is different in some ways?
-[01:04:46] [Server thread/ERROR] [cqrepoured]: Failed to copy file(s) from /assets/cqrepoured/defaultConfigs/exporter_output to exporter_output
-[01:04:46] [Server thread/ERROR] [cqrepoured]: Failed to copy file(s) from /assets/cqrepoured/defaultConfigs/textures/sync to sync
-[01:04:46] [Server thread/ERROR] [cqrepoured]: Failed to copy file(s) from /assets/cqrepoured/defaultConfigs/textures/eyes to eyes
-[01:04:47] [Server thread/INFO] [divinerpg]: Maximum mob health increased to Double.MAX_VALUE (1.7976931348623157e+308)
-[01:04:47] [Server thread/INFO] [mocreatures]: Registering entities...
-[01:04:47] [Server thread/INFO] [STDOUT]: [drzhark.mocreatures.compat.CompatHandler:<clinit>:82]: MIA config files modified successfully!
-[01:04:49] [Server thread/INFO] [Ice And Fire: RotN Edition]: A raven flies from the north to the sea
-[01:04:49] [Server thread/INFO] [Ice And Fire: RotN Edition]: A dragon whispers her name in the east
-[01:04:53] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 354 out of 354 recipes for shaped recipes
-[01:04:53] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
-[01:04:53] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
-[01:04:53] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
-[01:04:53] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
-[01:04:53] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
-[01:04:53] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
-[01:04:53] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for extractor recipes
-[01:04:53] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 89 out of 89 recipes for macerator recipes
-[01:04:53] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
-[01:04:53] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
-[01:04:53] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
-[01:04:53] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
-[01:04:53] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config version created successfully.
-[01:04:54] [Server thread/INFO] [STDERR]: [com.lycanitesmobs.LycanitesMobs:logWarning:302]: [LycanitesMobs] [WARNING] [] [Config] The current configs are too old, clearing all configs now...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config general created successfully.
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config itemlists created successfully.
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item pale_soup from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_arisaur_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_yale_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_silex_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item explorers_risotto from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_silex_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item searing_taco from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_pinky_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_bobeko_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_pinky_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_ika_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item paleo_salad from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_chupacabra_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item tropical_curry from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_cephignis_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_ika_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item devil_lasagna from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_chupacabra_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item battle_burrito from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_aspid_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_aspid_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item blood_chili from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item bulwark_burger from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_maka_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item seashell_maki from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item amber_cake from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_arisaur_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_concapede_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item lapis_fish_and_chips from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item caecilian_ramen from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_concapede_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item peaks_kebab from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_krake_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_joust_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_maka_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_krake_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_joust_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_yale_meat from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item moss_pie from JSON...
-[01:04:54] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_bobeko_meat from JSON...
-[01:04:54] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xtile.air@32767 = 6xitem.sugar@0
-[01:04:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.summoningpedestal`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[01:04:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipmentforge`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[01:04:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_infuser`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[01:04:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_station`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[01:04:55] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config spawning created successfully.
-[01:04:55] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
-[01:04:55] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
-[01:04:55] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[01:04:55] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[01:04:55] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[01:04:55] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[01:04:56] [Server thread/INFO] [STDERR]: [com.lycanitesmobs.LycanitesMobs:logWarning:302]: [LycanitesMobs] [WARNING] [] Unable to read files from directory.
+[01:36:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:36:14] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:36:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:36:14] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[01:36:14] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[01:36:14] [main/INFO] [FML]: Searching /workspaces/Prueba0/servidor_minecraft/./mods for mods
+[01:36:14] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from bewitchment-1.12.2-0.0.22.64.jar
+[01:36:14] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Galacticraft-1.12.2-4.0.6.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:36:14] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[01:36:14] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in IceAndFireRotN-1.9.1-1.3.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:36:14] [main/WARN] [FML]: The coremod iceandfire (com.github.alexthe666.iceandfire.asm.IceAndFirePlugin) is not signed!
+[01:36:14] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Locks-1.12.2-3.0.0.jar
+[01:36:14] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
+[01:36:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:36:14] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[01:36:14] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/Prueba0/servidor_minecraft/./mods/bewitchment-1.12.2-0.0.22.64.jar Service=LaunchWrapper Env=SERVER
+[01:36:14] [main/WARN] [FML]: The coremod BewitchmentFMLLoadingPlugin (com.bewitchment.core.BewitchmentFMLLoadingPlugin) is not signed!
+[01:36:14] [main/WARN] [FML]: The coremod MixinLoader (melonslise.locks.mixin.MixinLoader) is not signed!
+[01:36:14] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[01:36:14] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
+[01:36:14] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[01:36:14] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[01:36:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:36:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:36:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:36:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:36:15] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:36:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:36:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:36:15] [main/INFO] [MicdoodleCore]: Successfully Registered Transformer
+[01:36:15] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[01:36:15] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@6569dded
+[01:36:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:36:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:36:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:36:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:36:16] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[01:36:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:36:16] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[01:36:16] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[01:36:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[01:36:20] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[01:36:20] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[01:36:20] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[01:36:20] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[01:36:20] [Server thread/INFO] [FML]: Searching /workspaces/Prueba0/servidor_minecraft/./mods for mods
+[01:36:22] [Server thread/WARN] [FML]: Mod patchouli is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0-23.6
+[01:36:22] [Server thread/WARN] [FML]: Mod swparasites is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v3.1
+[01:36:22] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
+[01:36:22] [Server thread/INFO] [FML]: Forge Mod Loader has identified 37 mods to load
+[01:36:22] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[01:36:22] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
+[01:36:23] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, abyssalcraft, aether_legacy, aoa3, baubles, bewitchment, crimsonwarfare, croparia, divinerpg, mocreatures, fm, galacticraftcore, galacticraftplanets, iceandfire, ic2, locks, lycanitesmobs, nocubessrparmory, patchouli, xreliquary, spartanfire, spartanshields, spartanweaponry, srparasites, survivaltools, swparasites, thaumcraft, tombstone, toughasnails, travelersbackpack, xat, waystones, llibrary] at CLIENT
+[01:36:23] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, abyssalcraft, aether_legacy, aoa3, baubles, bewitchment, crimsonwarfare, croparia, divinerpg, mocreatures, fm, galacticraftcore, galacticraftplanets, iceandfire, ic2, locks, lycanitesmobs, nocubessrparmory, patchouli, xreliquary, spartanfire, spartanshields, spartanweaponry, srparasites, survivaltools, swparasites, thaumcraft, tombstone, toughasnails, travelersbackpack, xat, waystones, llibrary] at SERVER
+[01:36:29] [Server thread/INFO] [divinerpg.DivineRPG]: Creating registries
+[01:36:29] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[01:36:29] [Server thread/INFO] [FML]: Found 6528 ObjectHolder annotations
+[01:36:29] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[01:36:29] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[01:36:29] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[01:36:29] [Forge Version Check/INFO] [forge.VersionCheck]: [abyssalcraft] Starting version check at https://raw.githubusercontent.com/Shinoow/AbyssalCraft/master/version.json
+[01:36:30] [Forge Version Check/INFO] [forge.VersionCheck]: [abyssalcraft] Found status: AHEAD Target: null
+[01:36:30] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[01:36:30] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: UP_TO_DATE Target: null
+[01:36:30] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[01:36:30] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[01:36:30] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Starting version check at https://gist.githubusercontent.com/Gegy/a6639456aeb8edd92cbf7cbfcf9d65d9/raw/llibrary_updates.json
+[01:36:30] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Found status: UP_TO_DATE Target: null
+[01:36:30] [Forge Version Check/INFO] [forge.VersionCheck]: [xat] Starting version check at https://raw.githubusercontent.com/XzeroAir/Trinkets-1.12.2/master/update.json
+[01:36:30] [Forge Version Check/INFO] [forge.VersionCheck]: [divinerpg] Starting version check at https://raw.githubusercontent.com/DivineRPG/DivineRPG/1.12.2/divinerpg_update.json
+[01:36:30] [Forge Version Check/INFO] [forge.VersionCheck]: [divinerpg] Found status: UP_TO_DATE Target: null
+[01:36:30] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[01:36:30] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[01:36:30] [Forge Version Check/INFO] [forge.VersionCheck]: [aoa3] Starting version check at https://gist.github.com/Tslat/e7afe2448fe39a695acd45764824b762/raw/
+[01:36:30] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
+[01:36:32] [Server thread/INFO] [AbyssalCraft]: Starting the Integration Handler.
+[01:36:32] [Server thread/INFO] [aoa3]: Beginning fluid registration
+[01:36:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `temperature_spread`, expected `toughasnails`. This could be a intended override, but in most cases indicates a broken mod.
+[01:36:34] [Server thread/INFO] [Bewitchment]: Remember when I told you how my
+[01:36:34] [Server thread/INFO] [Bewitchment]: Kin is different in some ways?
+[01:36:35] [Server thread/INFO] [divinerpg]: Maximum mob health increased to Double.MAX_VALUE (1.7976931348623157e+308)
+[01:36:35] [Server thread/INFO] [mocreatures]: Registering entities...
+[01:36:35] [Server thread/INFO] [STDOUT]: [drzhark.mocreatures.compat.CompatHandler:<clinit>:82]: MIA config files modified successfully!
+[01:36:36] [Server thread/INFO] [Ice And Fire: RotN Edition]: A raven flies from the north to the sea
+[01:36:36] [Server thread/INFO] [Ice And Fire: RotN Edition]: A dragon whispers her name in the east
+[01:36:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 354 out of 354 recipes for shaped recipes
+[01:36:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
+[01:36:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[01:36:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[01:36:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[01:36:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[01:36:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
+[01:36:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for extractor recipes
+[01:36:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 89 out of 89 recipes for macerator recipes
+[01:36:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[01:36:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
+[01:36:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[01:36:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[01:36:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config version created successfully.
+[01:36:41] [Server thread/INFO] [STDERR]: [com.lycanitesmobs.LycanitesMobs:logWarning:302]: [LycanitesMobs] [WARNING] [] [Config] The current configs are too old, clearing all configs now...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config general created successfully.
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config itemlists created successfully.
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item pale_soup from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_arisaur_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_yale_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_silex_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item explorers_risotto from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_silex_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item searing_taco from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_pinky_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_bobeko_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_pinky_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_ika_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item paleo_salad from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_chupacabra_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item tropical_curry from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_cephignis_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_ika_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item devil_lasagna from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_chupacabra_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item battle_burrito from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_aspid_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_aspid_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item blood_chili from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item bulwark_burger from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_maka_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item seashell_maki from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item amber_cake from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_arisaur_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_concapede_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item lapis_fish_and_chips from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item caecilian_ramen from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_concapede_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item peaks_kebab from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_krake_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_joust_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_maka_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_krake_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_joust_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_yale_meat from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item moss_pie from JSON...
+[01:36:41] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_bobeko_meat from JSON...
+[01:36:41] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xtile.air@32767 = 6xitem.sugar@0
+[01:36:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.summoningpedestal`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[01:36:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipmentforge`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[01:36:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_infuser`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[01:36:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_station`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[01:36:42] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config spawning created successfully.
+[01:36:42] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
+[01:36:42] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
+[01:36:42] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[01:36:42] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[01:36:42] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[01:36:42] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[01:36:43] [Server thread/INFO] [STDERR]: [com.lycanitesmobs.LycanitesMobs:logWarning:302]: [LycanitesMobs] [WARNING] [] Unable to read files from directory.
 java.nio.file.NoSuchFileException: ./config/lycanitesmobs/mobevents
-[01:04:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 90 JSON Spawners...
-[01:04:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 90 JSON Spawners Loaded In Total.
-[01:04:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config mobevents created successfully.
-[01:04:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config worldgen created successfully.
-[01:04:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 8 JSON Dungeon Themes...
-[01:04:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 8 JSON Dungeon Themes Loaded In Total.
-[01:04:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 1 JSON Dungeon Structures...
-[01:04:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 1 JSON Dungeon Structures Loaded In Total.
-[01:04:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 14 JSON Dungeon Sectors...
-[01:04:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 14 JSON Dungeon Sectors Loaded In Total.
-[01:04:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 9 JSON Dungeon Schematics...
-[01:04:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 9 JSON Dungeon Schematics Loaded In Total.
-[01:04:56] [Server thread/INFO] [xreliquary]: [xreliquary] XP Juice registered by Reliquary.
-[01:04:56] [Server thread/INFO] [XAT]: Setting Up Races
-[01:04:56] [Server thread/INFO] [XAT]: Setting Up Blocks
-[01:04:56] [Server thread/INFO] [XAT]: Instantiating Flowers
-[01:04:56] [Server thread/INFO] [XAT]: Instantiating Placeables
-[01:04:56] [Server thread/INFO] [XAT]: Setting Up Items
-[01:04:56] [Server thread/INFO] [XAT]: Setting Up Capabilities
-[01:04:56] [Server thread/INFO] [XAT]: Setting Up Networking
-[01:04:56] [Server thread/INFO] [XAT]: Pre-init
-[01:04:56] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
-[01:04:56] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
-[01:04:56] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
-[01:04:56] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
-[01:04:56] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
-[01:04:56] [Server thread/INFO] [Survival Tools]: Starting Survival Tools
-[01:04:57] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
-[01:04:57] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
-[01:04:57] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
-[01:04:57] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
-[01:04:57] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
-[01:04:57] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
-[01:04:57] [Server thread/INFO] [aoa3]: Beginning block registration
-[01:04:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fire`, expected `cqrepoured`. This could be a intended override, but in most cases indicates a broken mod.
-[01:04:58] [Server thread/INFO] [divinerpg]: Registering DivineRPG blocks
-[01:04:58] [Server thread/INFO] [XAT]: Registering Flower Blocks
-[01:04:58] [Server thread/INFO] [XAT]: Registering Placeable Blocks
-[01:04:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileredstoneblock`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[01:04:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileblockanvil`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[01:04:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilemailbox`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[01:04:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilewaypoint`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[01:04:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripted`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[01:04:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripteddoor`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[01:04:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcbuilder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[01:04:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpccopy`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[01:04:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcborder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[01:04:58] [Server thread/INFO] [FML]: Applying holder lookups
-[01:04:58] [Server thread/INFO] [FML]: Holder lookups applied
-[01:04:58] [Server thread/INFO] [divinerpg]: Registering DivineRPG block items
-[01:04:58] [Server thread/INFO] [divinerpg]: Registering DivineRPG items
-[01:05:03] [Server thread/INFO] [aoa3]: Beginning item registration
-[01:05:04] [Server thread/INFO] [divinerpg]: Registering DivineRPG armor
-[01:05:04] [Server thread/INFO] [divinerpg]: Registering DivineRPG weapons
-[01:05:04] [Server thread/INFO] [divinerpg]: Registering DivineRPG tools
-[01:05:05] [Server thread/INFO] [XAT]: Registering Crafting
-[01:05:05] [Server thread/INFO] [XAT]: Registering Foods
-[01:05:05] [Server thread/INFO] [XAT]: Registering Misc
-[01:05:05] [Server thread/INFO] [XAT]: Registering Baubles
-[01:05:05] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
-[01:05:05] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for materials: Copper, Tin, Bronze, Steel, Silver, Invar, Platinum, Electrum, Nickel, Lead
-[01:05:05] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
-[01:05:05] [Server thread/INFO] [Spartan Shields]: Items Registered!
-[01:05:05] [Server thread/INFO] [FML]: Applying holder lookups
-[01:05:05] [Server thread/INFO] [FML]: Holder lookups applied
-[01:05:05] [Server thread/INFO] [divinerpg]: Registering armor descriptions
-[01:05:05] [Server thread/INFO] [Spartan Weaponry]: Registering Enchantments!
-[01:05:09] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
-[01:05:10] [Server thread/INFO] [XAT]: Registering Potions
-[01:05:10] [Server thread/INFO] [XAT]: Generating Potions
-[01:05:10] [Server thread/INFO] [XAT]: Finished Generating Potions
-[01:05:10] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(2, 1) invalid, 1 smaller than 2
-[01:05:10] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(4, 1) invalid, 1 smaller than 4
-[01:05:10] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(10, 1) invalid, 1 smaller than 10
-[01:05:10] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(9, 1) invalid, 1 smaller than 9
-[01:05:10] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(3, 2) invalid, 2 smaller than 3
-[01:05:10] [Server thread/INFO] [FML]: Applying holder lookups
-[01:05:10] [Server thread/INFO] [FML]: Holder lookups applied
-[01:05:10] [Server thread/INFO] [FML]: Applying holder lookups
-[01:05:10] [Server thread/INFO] [FML]: Holder lookups applied
-[01:05:10] [Server thread/INFO] [FML]: Injecting itemstacks
-[01:05:10] [Server thread/INFO] [FML]: Itemstack injection complete
-[01:05:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[01:05:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[01:05:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[01:05:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[01:05:10] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[01:05:10] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:05:10] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[01:05:10] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:05:10] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:05:11] [Server thread/ERROR] [FML]: Parsing error loading recipe lycanitesmobs:belpharm_break
+[01:36:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 90 JSON Spawners...
+[01:36:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 90 JSON Spawners Loaded In Total.
+[01:36:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config mobevents created successfully.
+[01:36:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config worldgen created successfully.
+[01:36:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 8 JSON Dungeon Themes...
+[01:36:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 8 JSON Dungeon Themes Loaded In Total.
+[01:36:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 1 JSON Dungeon Structures...
+[01:36:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 1 JSON Dungeon Structures Loaded In Total.
+[01:36:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 14 JSON Dungeon Sectors...
+[01:36:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 14 JSON Dungeon Sectors Loaded In Total.
+[01:36:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 9 JSON Dungeon Schematics...
+[01:36:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 9 JSON Dungeon Schematics Loaded In Total.
+[01:36:43] [Server thread/INFO] [xreliquary]: [xreliquary] XP Juice registered by Reliquary.
+[01:36:43] [Server thread/INFO] [XAT]: Setting Up Races
+[01:36:43] [Server thread/INFO] [XAT]: Setting Up Blocks
+[01:36:43] [Server thread/INFO] [XAT]: Instantiating Flowers
+[01:36:43] [Server thread/INFO] [XAT]: Instantiating Placeables
+[01:36:43] [Server thread/INFO] [XAT]: Setting Up Items
+[01:36:43] [Server thread/INFO] [XAT]: Setting Up Capabilities
+[01:36:43] [Server thread/INFO] [XAT]: Setting Up Networking
+[01:36:43] [Server thread/INFO] [XAT]: Pre-init
+[01:36:43] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
+[01:36:43] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
+[01:36:43] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
+[01:36:43] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[01:36:43] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[01:36:44] [Server thread/INFO] [Survival Tools]: Starting Survival Tools
+[01:36:44] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[01:36:44] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[01:36:44] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[01:36:44] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[01:36:44] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[01:36:44] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[01:36:44] [Server thread/INFO] [aoa3]: Beginning block registration
+[01:36:45] [Server thread/INFO] [divinerpg]: Registering DivineRPG blocks
+[01:36:45] [Server thread/INFO] [XAT]: Registering Flower Blocks
+[01:36:45] [Server thread/INFO] [XAT]: Registering Placeable Blocks
+[01:36:45] [Server thread/INFO] [FML]: Applying holder lookups
+[01:36:46] [Server thread/INFO] [FML]: Holder lookups applied
+[01:36:46] [Server thread/INFO] [divinerpg]: Registering DivineRPG block items
+[01:36:46] [Server thread/INFO] [divinerpg]: Registering DivineRPG items
+[01:36:46] [Server thread/INFO] [aoa3]: Beginning item registration
+[01:36:51] [Server thread/INFO] [divinerpg]: Registering DivineRPG weapons
+[01:36:51] [Server thread/INFO] [divinerpg]: Registering DivineRPG armor
+[01:36:51] [Server thread/INFO] [divinerpg]: Registering DivineRPG tools
+[01:36:51] [Server thread/INFO] [XAT]: Registering Crafting
+[01:36:51] [Server thread/INFO] [XAT]: Registering Foods
+[01:36:51] [Server thread/INFO] [XAT]: Registering Misc
+[01:36:51] [Server thread/INFO] [XAT]: Registering Baubles
+[01:36:51] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
+[01:36:51] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for materials: Copper, Tin, Bronze, Steel, Silver, Invar, Platinum, Electrum, Nickel, Lead
+[01:36:51] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
+[01:36:51] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[01:36:54] [Server thread/INFO] [FML]: Applying holder lookups
+[01:36:54] [Server thread/INFO] [FML]: Holder lookups applied
+[01:36:54] [Server thread/INFO] [divinerpg]: Registering armor descriptions
+[01:36:54] [Server thread/INFO] [Spartan Weaponry]: Registering Enchantments!
+[01:36:59] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
+[01:36:59] [Server thread/INFO] [XAT]: Registering Potions
+[01:36:59] [Server thread/INFO] [XAT]: Generating Potions
+[01:36:59] [Server thread/INFO] [XAT]: Finished Generating Potions
+[01:36:59] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(2, 1) invalid, 1 smaller than 2
+[01:36:59] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(4, 1) invalid, 1 smaller than 4
+[01:36:59] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(10, 1) invalid, 1 smaller than 10
+[01:36:59] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(9, 1) invalid, 1 smaller than 9
+[01:36:59] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(3, 2) invalid, 2 smaller than 3
+[01:36:59] [Server thread/INFO] [FML]: Applying holder lookups
+[01:36:59] [Server thread/INFO] [FML]: Holder lookups applied
+[01:36:59] [Server thread/INFO] [FML]: Applying holder lookups
+[01:36:59] [Server thread/INFO] [FML]: Holder lookups applied
+[01:36:59] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:36:59] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:36:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[01:36:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[01:36:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[01:36:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[01:36:59] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[01:36:59] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:36:59] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[01:36:59] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:36:59] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:37:00] [Server thread/ERROR] [FML]: Parsing error loading recipe lycanitesmobs:belpharm_break
 com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -281,7 +254,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[01:05:11] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
+[01:37:00] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -302,7 +275,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[01:05:11] [Server thread/ERROR] [FML]: Parsing error loading recipe spartanshields:shield_abyssalcraft_darkstone
+[01:37:00] [Server thread/ERROR] [FML]: Parsing error loading recipe spartanshields:shield_abyssalcraft_darkstone
 com.google.gson.JsonSyntaxException: Unknown item 'abyssalcraft:cobblestone'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -320,463 +293,430 @@ com.google.gson.JsonSyntaxException: Unknown item 'abyssalcraft:cobblestone'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[01:05:11] [Server thread/INFO] [THAUMCRAFT]: Checking for mod & oredict compatibilities
-[01:05:11] [Server thread/INFO] [THAUMCRAFT]: Adding entities to MFR safari net blacklist.
-[01:05:11] [Server thread/WARN] [FML]: ****************************************
-[01:05:11] [Server thread/WARN] [FML]: * Invalid registration attempt for an Ore Dictionary item with name doorWood has occurred. The registration has been denied to prevent crashes. The mod responsible for the registration needs to correct this.
-[01:05:11] [Server thread/WARN] [FML]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:665)
-[01:05:11] [Server thread/WARN] [FML]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:651)
-[01:05:11] [Server thread/WARN] [FML]: *  at drzhark.mocreatures.init.MoCRecipes$RegistrationHandler.registerRecipes(MoCRecipes.java:99)
-[01:05:11] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_196_RegistrationHandler_registerRecipes_Register.invoke(.dynamic)
-[01:05:11] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
-[01:05:11] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)...
-[01:05:11] [Server thread/WARN] [FML]: ****************************************
-[01:05:11] [Server thread/WARN] [FML]: ****************************************
-[01:05:11] [Server thread/WARN] [FML]: * Invalid registration attempt for an Ore Dictionary item with name slabWood has occurred. The registration has been denied to prevent crashes. The mod responsible for the registration needs to correct this.
-[01:05:11] [Server thread/WARN] [FML]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:665)
-[01:05:11] [Server thread/WARN] [FML]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:651)
-[01:05:11] [Server thread/WARN] [FML]: *  at drzhark.mocreatures.init.MoCRecipes$RegistrationHandler.registerRecipes(MoCRecipes.java:117)
-[01:05:11] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_196_RegistrationHandler_registerRecipes_Register.invoke(.dynamic)
-[01:05:11] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
-[01:05:11] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)...
-[01:05:11] [Server thread/WARN] [FML]: ****************************************
-[01:05:11] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
-[01:05:11] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
-[01:05:11] [Server thread/INFO] [Spartan Shields]: Recipes added!
-[01:05:11] [Server thread/INFO] [FML]: Applying holder lookups
-[01:05:11] [Server thread/INFO] [FML]: Holder lookups applied
-[01:05:15] [Server thread/INFO] [Bewitchment]: It's a fact, she is exactly that!
-[01:05:15] [Server thread/INFO] [Bewitchment]: A harbinger of death from the world of witchcraft,
-[01:05:15] [Server thread/INFO] [Bewitchment]: And she's feeding them cakes and her ale to this innocent boy,
-[01:05:15] [Server thread/INFO] [Bewitchment]: And her magic brings dismay!
-[01:05:15] [Server thread/INFO] [Bewitchment]: I hear her in the wind, the bane of our town
-[01:05:15] [Server thread/INFO] [Bewitchment]: Come with me, father, I'm to expose a heathen
-[01:05:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tippedarrow`, expected `bewitchment`. This could be a intended override, but in most cases indicates a broken mod.
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: CustomNPC Permissions available:
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.edit.blocks
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.edit.villager
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.bank
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.dialog
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.faction
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.linked
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.naturalspawn
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.playerdata
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.quest
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.recipe
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.transport
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.advanced
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.ai
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.clone
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.create
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.delete
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.display
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.freeze
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.gui
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.inventory
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.reset
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.stats
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.scenes
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.soulstone.all
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.spawner.create
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.spawner.mob
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.mounter
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.nbtbook
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.pather
-[01:05:17] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.scripter
-[01:05:18] [Server thread/INFO] [STDOUT]: [noppes.npcs.CustomNpcs:load:258]: Markov dictionaries loaded!
-[01:05:18] [Server thread/INFO] [divinerpg]: Registering custom triggers
-[01:05:18] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.egg@32767 = 1xitem.boiled_egg@0
-[01:05:18] [Server thread/INFO] [mocreatures]: Entity spawn registration complete.
-[01:05:18] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(2, 1) invalid, 1 smaller than 2
-[01:05:18] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(4, 1) invalid, 1 smaller than 4
-[01:05:18] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(10, 1) invalid, 1 smaller than 10
-[01:05:18] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(9, 1) invalid, 1 smaller than 9
-[01:05:18] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(3, 2) invalid, 2 smaller than 3
-[01:05:18] [Server thread/INFO] [Ice And Fire: RotN Edition]: The watcher waits on the northern wall
-[01:05:18] [Server thread/INFO] [Ice And Fire: RotN Edition]: A daughter picks up a warrior's sword
-[01:05:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `avalon`, expected `ee`. This could be a intended override, but in most cases indicates a broken mod.
-[01:05:18] [Server thread/INFO] [Spartan Weaponry]: Registering OreDictionary entries
-[01:05:18] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
-[01:05:18] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
-[01:05:18] [Server thread/INFO] [FML]: Injecting itemstacks
-[01:05:18] [Server thread/INFO] [FML]: Itemstack injection complete
-[01:05:19] [Server thread/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/alchemy
-[01:05:19] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumcraft:research/eldritch
-[01:05:19] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/basics
-[01:05:19] [Server thread/INFO] [THAUMCRAFT]: Loaded 23 research entries from thaumcraft:research/auromancy
-[01:05:19] [Server thread/INFO] [THAUMCRAFT]: Loaded 12 research entries from thaumcraft:research/scans
-[01:05:19] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/artifice
-[01:05:19] [Server thread/INFO] [THAUMCRAFT]: Loaded 4 research entries from crimsonwarfare:research/warfare
-[01:05:19] [Server thread/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/infusion
-[01:05:19] [Server thread/INFO] [THAUMCRAFT]: Loaded 29 research entries from thaumcraft:research/golemancy
-[01:05:19] [Server thread/INFO] [THAUMCRAFT]: Loaded 1 research entries from survivaltools:research/thaumic_regulator
-[01:05:19] [Server thread/INFO] [THAUMCRAFT]: Loaded 3 research entries from bewitchment:tc/research/bewitchment
-[01:05:19] [Server thread/INFO] [cqrepoured]: Loading 20 dungeon configuration files...
-[01:05:20] [Server thread/INFO] [cqrepoured]: Loading 2 grid configuration files...
-[01:05:20] [Server thread/INFO] [GalacticraftCore]: Activating IndustrialCraft2 compatibility features.
-[01:05:20] [Server thread/INFO] [Ice And Fire: RotN Edition]: A brother bound to a love he must hide
-[01:05:20] [Server thread/INFO] [Ice And Fire: RotN Edition]: The younger's armor is worn in the mind
-[01:05:20] [Server thread/INFO] [Ice And Fire: RotN Edition]: A cold iron throne holds a boy barely grown
-[01:05:20] [Server thread/INFO] [Ice And Fire: RotN Edition]: And now it is known
-[01:05:20] [Server thread/INFO] [Ice And Fire: RotN Edition]: A claim to the prize, a crown laced in lies
-[01:05:20] [Server thread/INFO] [Ice And Fire: RotN Edition]: You win or you die
-[01:05:20] [Server thread/INFO] [Ice And Fire: RotN Edition]: Damn season 8 really sucked didn't it
-[01:05:20] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
-[01:05:20] [Server thread/INFO] [ic2.General]: ic2 version 2.8.222-ex112 loaded.
-[01:05:20] [Server thread/INFO] [xreliquary]: [xreliquary] Loaded successfully!
-[01:05:20] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 1 of 2 modules activated
-[01:05:21] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 44 mods
-[01:05:21] [Server thread/INFO] [cqrepoured]: Successfully loaded texture set: textureSetPreset!
-[01:05:21] [Server thread/INFO] [cqrepoured]: Successfully loaded texture set: TavernTS!
-[01:05:21] [Server thread/INFO] [cqrepoured]: Loaded 2 texture Sets!
-[01:05:21] [Server thread/INFO] [cqrepoured]: Default factions loaded and initialized!
-[01:05:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[01:05:21] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:21] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table cqrepoured:entities/bosses/ender_calamity
-[01:05:22] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 1292 advancements
-[01:05:22] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 0
-[01:05:22] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:22] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
-[01:05:22] [Server thread/INFO] [FML]: Loading dimension 50 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:22] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 50
-[01:05:22] [Server thread/INFO] [FML]: Loading dimension 51 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:22] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 51
-[01:05:22] [Server thread/INFO] [FML]: Loading dimension 52 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:22] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 52
-[01:05:22] [Server thread/INFO] [FML]: Loading dimension 53 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:22] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 53
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 800 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 800
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 801 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 801
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 802 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 802
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 803 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 803
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 804 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 804
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 805 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 805
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 806 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 806
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 807 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 807
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 808 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 808
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 809 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 809
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 810 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 810
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 811 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 811
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 812 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 812
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 813 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 813
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 814 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 814
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 815 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 815
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 816 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 816
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 817 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 817
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 818 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 818
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 819 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 819
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 820 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 820
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 821 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 821
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 5 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 5
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 6 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 6
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 7
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 8 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 8
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 420 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 420
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 421 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 421
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 422 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 422
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 423 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 423
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 424 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 424
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 425 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 425
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 426 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 426
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 427 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 427
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 4
-[01:05:23] [Server thread/INFO] [FML]: Loading dimension -17 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -17
-[01:05:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[01:05:24] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.world.SRPSaveData:get:77]: nanissss--------asdddddddddddddddddddddddddddddddddddddddd----
-[01:05:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 5%
-[01:05:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 10%
-[01:05:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 18%
-[01:05:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 28%
-[01:05:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 40%
-[01:05:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 53%
-[01:05:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 69%
-[01:05:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 85%
-[01:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (11.654s)! For help, type "help" or "?"
-[01:05:33] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -29
-[01:05:33] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -30
-[01:05:33] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -31
-[01:05:33] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -28
-[01:05:33] [Server thread/INFO] [XAT]: Trinkets and Baubles: Generating VIP List
-[01:05:33] [Server thread/INFO] [XAT]: Trinkets and Baubles: Finished Gathering VIP List, Took 31ms
-[01:05:33] [Server thread/INFO] [FML]: Loading dimension -29 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:33] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -29
-[01:05:33] [Server thread/INFO] [FML]: Loading dimension -31 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:33] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -31
-[01:05:33] [Server thread/INFO] [FML]: Loading dimension -28 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:33] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -28
-[01:05:33] [Server thread/INFO] [FML]: Loading dimension -30 (world) (net.minecraft.server.dedicated.DedicatedServer@4a1a5025)
-[01:05:33] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -30
-[01:05:33] [Thread-5/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
-[01:05:34] [Thread-6/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
-[01:05:34] [Thread-7/INFO] [THAUMCRAFT]: Starting aura thread for dim 50
-[01:05:34] [Thread-8/INFO] [THAUMCRAFT]: Starting aura thread for dim 51
-[01:05:34] [Thread-9/INFO] [THAUMCRAFT]: Starting aura thread for dim 52
-[01:05:34] [Thread-10/INFO] [THAUMCRAFT]: Starting aura thread for dim 53
-[01:05:34] [Thread-11/INFO] [THAUMCRAFT]: Starting aura thread for dim 800
-[01:05:34] [Thread-12/INFO] [THAUMCRAFT]: Starting aura thread for dim 801
-[01:05:34] [Thread-13/INFO] [THAUMCRAFT]: Starting aura thread for dim 802
-[01:05:34] [Thread-14/INFO] [THAUMCRAFT]: Starting aura thread for dim 803
-[01:05:34] [Thread-15/INFO] [THAUMCRAFT]: Starting aura thread for dim 804
-[01:05:34] [Thread-16/INFO] [THAUMCRAFT]: Starting aura thread for dim 805
-[01:05:34] [Thread-17/INFO] [THAUMCRAFT]: Starting aura thread for dim 806
-[01:05:34] [Thread-18/INFO] [THAUMCRAFT]: Starting aura thread for dim 807
-[01:05:34] [Thread-19/INFO] [THAUMCRAFT]: Starting aura thread for dim 808
-[01:05:34] [Thread-20/INFO] [THAUMCRAFT]: Starting aura thread for dim 809
-[01:05:34] [Thread-21/INFO] [THAUMCRAFT]: Starting aura thread for dim 810
-[01:05:34] [Thread-22/INFO] [THAUMCRAFT]: Starting aura thread for dim 811
-[01:05:34] [Thread-23/INFO] [THAUMCRAFT]: Starting aura thread for dim 812
-[01:05:34] [Thread-24/INFO] [THAUMCRAFT]: Starting aura thread for dim 813
-[01:05:34] [Thread-25/INFO] [THAUMCRAFT]: Starting aura thread for dim 814
-[01:05:34] [Thread-26/INFO] [THAUMCRAFT]: Starting aura thread for dim 815
-[01:05:34] [Thread-27/INFO] [THAUMCRAFT]: Starting aura thread for dim 816
-[01:05:34] [Thread-28/INFO] [THAUMCRAFT]: Starting aura thread for dim 817
-[01:05:34] [Thread-29/INFO] [THAUMCRAFT]: Starting aura thread for dim 818
-[01:05:34] [Thread-30/INFO] [THAUMCRAFT]: Starting aura thread for dim 819
-[01:05:34] [Thread-32/INFO] [THAUMCRAFT]: Starting aura thread for dim 821
-[01:05:34] [Thread-31/INFO] [THAUMCRAFT]: Starting aura thread for dim 820
-[01:05:34] [Thread-33/INFO] [THAUMCRAFT]: Starting aura thread for dim 5
-[01:05:34] [Thread-34/INFO] [THAUMCRAFT]: Starting aura thread for dim 6
-[01:05:34] [Thread-35/INFO] [THAUMCRAFT]: Starting aura thread for dim 7
-[01:05:34] [Thread-36/INFO] [THAUMCRAFT]: Starting aura thread for dim 8
-[01:05:34] [Thread-37/INFO] [THAUMCRAFT]: Starting aura thread for dim 420
-[01:05:34] [Thread-38/INFO] [THAUMCRAFT]: Starting aura thread for dim 421
-[01:05:34] [Thread-39/INFO] [THAUMCRAFT]: Starting aura thread for dim 422
-[01:05:34] [Thread-40/INFO] [THAUMCRAFT]: Starting aura thread for dim 423
-[01:05:34] [Thread-41/INFO] [THAUMCRAFT]: Starting aura thread for dim 424
-[01:05:34] [Thread-42/INFO] [THAUMCRAFT]: Starting aura thread for dim 425
-[01:05:34] [Thread-43/INFO] [THAUMCRAFT]: Starting aura thread for dim 426
-[01:05:34] [Thread-44/INFO] [THAUMCRAFT]: Starting aura thread for dim 427
-[01:05:34] [Thread-45/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
-[01:05:34] [Thread-46/INFO] [THAUMCRAFT]: Starting aura thread for dim 4
-[01:05:34] [Thread-47/INFO] [THAUMCRAFT]: Starting aura thread for dim -17
-[01:05:34] [Thread-48/INFO] [THAUMCRAFT]: Starting aura thread for dim -29
-[01:05:34] [Thread-49/INFO] [THAUMCRAFT]: Starting aura thread for dim -31
-[01:05:34] [Thread-50/INFO] [THAUMCRAFT]: Starting aura thread for dim -28
-[01:05:34] [Thread-51/INFO] [THAUMCRAFT]: Starting aura thread for dim -30
-[01:05:34] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
-[01:05:34] [Server thread/INFO] [FML]: Unloading dimension -1
-[01:05:34] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 50
-[01:05:34] [Server thread/INFO] [FML]: Unloading dimension 50
-[01:05:34] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 51
-[01:05:34] [Server thread/INFO] [FML]: Unloading dimension 51
-[01:05:34] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 52
-[01:05:34] [Server thread/INFO] [FML]: Unloading dimension 52
-[01:05:34] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 53
-[01:05:34] [Server thread/INFO] [FML]: Unloading dimension 53
-[01:05:34] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 800
-[01:05:34] [Server thread/INFO] [FML]: Unloading dimension 800
-[01:05:34] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 801
-[01:05:34] [Server thread/INFO] [FML]: Unloading dimension 801
-[01:05:34] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 802
-[01:05:34] [Server thread/INFO] [FML]: Unloading dimension 802
-[01:05:34] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 803
-[01:05:34] [Server thread/INFO] [FML]: Unloading dimension 803
-[01:05:34] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 804
-[01:05:34] [Server thread/INFO] [FML]: Unloading dimension 804
-[01:05:34] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 805
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 805
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 806
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 806
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 807
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 807
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 808
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 808
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 809
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 809
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 810
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 810
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 811
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 811
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 812
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 812
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 813
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 813
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 814
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 814
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 815
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 815
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 816
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 816
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 817
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 817
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 818
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 818
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 819
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 819
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 820
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 820
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 821
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 821
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 5
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 5
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 6
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 6
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 7
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 7
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 8
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 8
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 420
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 420
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 421
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 421
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 422
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 422
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 423
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 423
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 424
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 424
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 425
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 425
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 426
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 426
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 427
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 427
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 1
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 1
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 4
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension 4
-[01:05:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -17
-[01:05:35] [Server thread/INFO] [FML]: Unloading dimension -17
-[01:05:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2209ms behind, skipping 44 tick(s)
-[01:05:36] [Thread-6/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
-[01:05:36] [Thread-7/INFO] [THAUMCRAFT]: Stopping aura thread for dim 50
-[01:05:36] [Thread-8/INFO] [THAUMCRAFT]: Stopping aura thread for dim 51
-[01:05:36] [Thread-9/INFO] [THAUMCRAFT]: Stopping aura thread for dim 52
-[01:05:36] [Thread-10/INFO] [THAUMCRAFT]: Stopping aura thread for dim 53
-[01:05:36] [Thread-11/INFO] [THAUMCRAFT]: Stopping aura thread for dim 800
-[01:05:36] [Thread-12/INFO] [THAUMCRAFT]: Stopping aura thread for dim 801
-[01:05:36] [Thread-13/INFO] [THAUMCRAFT]: Stopping aura thread for dim 802
-[01:05:36] [Thread-14/INFO] [THAUMCRAFT]: Stopping aura thread for dim 803
-[01:05:36] [Thread-16/INFO] [THAUMCRAFT]: Stopping aura thread for dim 805
-[01:05:36] [Thread-15/INFO] [THAUMCRAFT]: Stopping aura thread for dim 804
-[01:05:36] [Thread-17/INFO] [THAUMCRAFT]: Stopping aura thread for dim 806
-[01:05:36] [Thread-18/INFO] [THAUMCRAFT]: Stopping aura thread for dim 807
-[01:05:36] [Thread-19/INFO] [THAUMCRAFT]: Stopping aura thread for dim 808
-[01:05:36] [Thread-20/INFO] [THAUMCRAFT]: Stopping aura thread for dim 809
-[01:05:36] [Thread-21/INFO] [THAUMCRAFT]: Stopping aura thread for dim 810
-[01:05:36] [Thread-22/INFO] [THAUMCRAFT]: Stopping aura thread for dim 811
-[01:05:36] [Thread-23/INFO] [THAUMCRAFT]: Stopping aura thread for dim 812
-[01:05:36] [Thread-24/INFO] [THAUMCRAFT]: Stopping aura thread for dim 813
-[01:05:36] [Thread-25/INFO] [THAUMCRAFT]: Stopping aura thread for dim 814
-[01:05:36] [Thread-26/INFO] [THAUMCRAFT]: Stopping aura thread for dim 815
-[01:05:36] [Thread-27/INFO] [THAUMCRAFT]: Stopping aura thread for dim 816
-[01:05:36] [Thread-29/INFO] [THAUMCRAFT]: Stopping aura thread for dim 818
-[01:05:36] [Thread-28/INFO] [THAUMCRAFT]: Stopping aura thread for dim 817
-[01:05:36] [Thread-30/INFO] [THAUMCRAFT]: Stopping aura thread for dim 819
-[01:05:36] [Thread-32/INFO] [THAUMCRAFT]: Stopping aura thread for dim 821
-[01:05:36] [Thread-31/INFO] [THAUMCRAFT]: Stopping aura thread for dim 820
-[01:05:36] [Thread-33/INFO] [THAUMCRAFT]: Stopping aura thread for dim 5
-[01:05:36] [Thread-34/INFO] [THAUMCRAFT]: Stopping aura thread for dim 6
-[01:05:36] [Thread-35/INFO] [THAUMCRAFT]: Stopping aura thread for dim 7
-[01:05:36] [Thread-36/INFO] [THAUMCRAFT]: Stopping aura thread for dim 8
-[01:05:36] [Thread-37/INFO] [THAUMCRAFT]: Stopping aura thread for dim 420
-[01:05:36] [Thread-38/INFO] [THAUMCRAFT]: Stopping aura thread for dim 421
-[01:05:36] [Thread-39/INFO] [THAUMCRAFT]: Stopping aura thread for dim 422
-[01:05:36] [Thread-40/INFO] [THAUMCRAFT]: Stopping aura thread for dim 423
-[01:05:36] [Thread-41/INFO] [THAUMCRAFT]: Stopping aura thread for dim 424
-[01:05:36] [Thread-42/INFO] [THAUMCRAFT]: Stopping aura thread for dim 425
-[01:05:36] [Thread-43/INFO] [THAUMCRAFT]: Stopping aura thread for dim 426
-[01:05:36] [Thread-44/INFO] [THAUMCRAFT]: Stopping aura thread for dim 427
-[01:05:37] [Thread-45/INFO] [THAUMCRAFT]: Stopping aura thread for dim 1
-[01:05:37] [Thread-46/INFO] [THAUMCRAFT]: Stopping aura thread for dim 4
-[01:05:37] [Thread-47/INFO] [THAUMCRAFT]: Stopping aura thread for dim -17
-[01:11:37] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[01:11:37] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 50 mods : reachfix@1.0.10,aoa3@3.3.6,locks@3.0.0,jei@4.16.1.1012,crimsonwarfare@1.5,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35,ee@0.1.1,bewitchment@0.22.63,mutantbeasts@1.12.2-1.0.2,xreliquary@1.12.2-1.3.4.796,llibrary@1.7.20,xat@0.32.5,iceandfire@1.9.1-1.3.3,waila@1.8.26,galacticraftplanets@4.0.6,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.6,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,forge@14.23.5.2860,minecraft@1.12.2,nocubessrparmory@3.0.0,croparia@2.4,fm@1.8,baubles@1.5.2,lycanitesmobs@2.0.8.10 - MC 1.12.2,mocreatures@12.4.5,nether_api@1.3.0,patchouli@1.0-23.6,ic2@2.8.222-ex112,spartanshields@1.5.5,abyssalcraft@2.0.0-BETA-1,galacticraftcore@4.0.6,toughasnails@3.1.0.141,spartanfire@0.4,inventoryhud@3.4.4,FML@8.0.99.99,survivaltools@1.12.2-1.0.0,tombstone@4.7.4,customnpcs@1.12,srparasites@1.9.21,spartanweaponry@1.6.0,aether_legacy@1.5.3.2,cqrepoured@2.6.16B,divinerpg@1.7.1,geckolib3@3.0.30,swparasites@v3.1
-[01:11:46] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:11:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Seb0401[/127.178.52.72:41435] logged in with entity id 3101 at (184.5, 67.0, 80.5)
-[01:11:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 joined the game
-[01:11:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has made the advancement [Christmas]
-[01:11:46] [Server thread/INFO] [cqrepoured]: Loading player reputation...
-[01:11:46] [Server thread/INFO] [XAT]: Syncing Config to Seb0401
-[01:11:46] [Thread-56/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 143ad5bb-426f-3bb8-9dbc-3d0cd8b05986.
-[01:11:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has made the advancement [Ice and Fire]
-[01:12:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Seb0401 lost connection: Timed out
-[01:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 left the game
-[01:12:40] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[01:12:40] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 50 mods : reachfix@1.0.10,aoa3@3.3.6,locks@3.0.0,jei@4.16.1.1012,crimsonwarfare@1.5,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35,ee@0.1.1,bewitchment@0.22.63,mutantbeasts@1.12.2-1.0.2,xreliquary@1.12.2-1.3.4.796,llibrary@1.7.20,xat@0.32.5,iceandfire@1.9.1-1.3.3,waila@1.8.26,galacticraftplanets@4.0.6,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.6,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,forge@14.23.5.2860,minecraft@1.12.2,nocubessrparmory@3.0.0,croparia@2.4,fm@1.8,baubles@1.5.2,lycanitesmobs@2.0.8.10 - MC 1.12.2,mocreatures@12.4.5,nether_api@1.3.0,patchouli@1.0-23.6,ic2@2.8.222-ex112,spartanshields@1.5.5,abyssalcraft@2.0.0-BETA-1,galacticraftcore@4.0.6,toughasnails@3.1.0.141,spartanfire@0.4,inventoryhud@3.4.4,FML@8.0.99.99,survivaltools@1.12.2-1.0.0,tombstone@4.7.4,customnpcs@1.12,srparasites@1.9.21,spartanweaponry@1.6.0,aether_legacy@1.5.3.2,cqrepoured@2.6.16B,divinerpg@1.7.1,geckolib3@3.0.30,swparasites@v3.1
-[01:12:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:12:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Seb0401[/127.178.52.72:38915] logged in with entity id 8495 at (184.5, 67.0, 80.5)
-[01:12:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 joined the game
-[01:12:47] [Server thread/INFO] [cqrepoured]: Loading player reputation...
-[01:12:47] [Server thread/INFO] [XAT]: Syncing Config to Seb0401
-[01:13:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Changed Evolution Phase for Parasites to -2
-[01:20:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 was slain by Zombie
-[01:20:59] [Server thread/INFO] [tombstone]: The last known grave of Seb0401 is at location [name:Last Grave, x:85, y:74, z:78] in the dimension 0
-[01:20:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has made the advancement [Your First Grave]
-[01:20:59] [Server thread/INFO] [tombstone]: Seb0401 has successfully been saved
-[01:21:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has made the advancement [The Most Useful Key]
-[01:21:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has made the advancement [Knowledge of Death]
-[01:21:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has reached the goal [A Fast Comeback]
-[01:21:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has made the advancement [Monster Hunter]
-[01:21:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 was shot by Mutant Skeleton
-[01:21:30] [Server thread/INFO] [tombstone]: The last known grave of Seb0401 is at location [name:Last Grave, x:79, y:71, z:69] in the dimension 0
-[01:21:30] [Server thread/INFO] [tombstone]: Seb0401 has successfully been saved
-[01:22:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has reached the goal [Chain Death]
-[01:22:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 was shot by Mutant Skeleton
-[01:22:13] [Server thread/INFO] [tombstone]: The last known grave of Seb0401 is at location [name:Last Grave, x:100, y:71, z:65] in the dimension 0
-[01:22:13] [Server thread/INFO] [tombstone]: Seb0401 has successfully been saved
-[01:22:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has reached the goal [Here They Come]
-[01:22:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has made the advancement [A Strange Grave's Dust]
-[01:22:31] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[01:22:31] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 50 mods : reachfix@1.0.10,aoa3@3.3.6,locks@3.0.0,jei@4.16.1.1012,crimsonwarfare@1.5,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35,ee@0.1.1,bewitchment@0.22.63,mutantbeasts@1.12.2-1.0.2,xreliquary@1.12.2-1.3.4.796,llibrary@1.7.20,xat@0.32.5,iceandfire@1.9.1-1.3.3,waila@1.8.26,galacticraftplanets@4.0.6,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.6,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,forge@14.23.5.2860,minecraft@1.12.2,nocubessrparmory@3.0.0,croparia@2.4,fm@1.8,baubles@1.5.2,lycanitesmobs@2.0.8.10 - MC 1.12.2,mocreatures@12.4.5,nether_api@1.3.0,patchouli@1.0-23.6,ic2@2.8.222-ex112,spartanshields@1.5.5,abyssalcraft@2.0.0-BETA-1,galacticraftcore@4.0.6,toughasnails@3.1.0.141,spartanfire@0.4,inventoryhud@3.4.4,FML@8.0.99.99,survivaltools@1.12.2-1.0.0,tombstone@4.7.4,customnpcs@1.12,srparasites@1.9.21,spartanweaponry@1.6.0,aether_legacy@1.5.3.2,cqrepoured@2.6.16B,divinerpg@1.7.1,geckolib3@3.0.30,swparasites@v3.1
-[01:22:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:22:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: linkol_shg[/127.95.7.111:38227] logged in with entity id 29219 at (177.5, 70.0, 83.5)
-[01:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: linkol_shg joined the game
-[01:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: linkol_shg has made the advancement [Christmas]
-[01:22:35] [Server thread/INFO] [cqrepoured]: Loading player reputation...
-[01:22:35] [Server thread/INFO] [XAT]: Syncing Config to linkol_shg
-[01:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: linkol_shg has made the advancement [Ice and Fire]
-[01:22:35] [Thread-64/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 555c36f2-0963-32c1-a2b5-8127183b5af6.
-[01:22:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 was shot by Mutant Skeleton
-[01:22:41] [Server thread/INFO] [tombstone]: The last known grave of Seb0401 is at location [name:Last Grave, x:104, y:70, z:49] in the dimension 0
-[01:22:41] [Server thread/INFO] [tombstone]: Seb0401 has successfully been saved
-[01:22:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has reached the goal [My First Level]
-[01:22:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: linkol_shg lost connection: Disconnected
-[01:22:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: linkol_shg left the game
-[01:23:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 was slain by Scarlet Barghest
-[01:23:06] [Server thread/INFO] [tombstone]: The last known grave of Seb0401 is at location [name:Last Grave, x:180, y:69, z:83] in the dimension 0
-[01:23:06] [Server thread/INFO] [tombstone]: Seb0401 has successfully been saved
-[01:23:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 was shot by Mutant Skeleton
-[01:23:33] [Server thread/INFO] [tombstone]: The last known grave of Seb0401 is at location [name:Last Grave, x:104, y:70, z:49] in the dimension 0
-[01:23:33] [Server thread/INFO] [tombstone]: Seb0401 has successfully been saved
-[01:24:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 was shot by Mutant Skeleton
-[01:24:30] [Server thread/INFO] [tombstone]: The last known grave of Seb0401 is at location [name:Last Grave, x:63, y:72, z:60] in the dimension 0
-[01:24:30] [Server thread/INFO] [tombstone]: Seb0401 has successfully been saved
+[01:37:00] [Server thread/INFO] [THAUMCRAFT]: Checking for mod & oredict compatibilities
+[01:37:00] [Server thread/INFO] [THAUMCRAFT]: Adding entities to MFR safari net blacklist.
+[01:37:00] [Server thread/WARN] [FML]: ****************************************
+[01:37:00] [Server thread/WARN] [FML]: * Invalid registration attempt for an Ore Dictionary item with name doorWood has occurred. The registration has been denied to prevent crashes. The mod responsible for the registration needs to correct this.
+[01:37:00] [Server thread/WARN] [FML]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:665)
+[01:37:00] [Server thread/WARN] [FML]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:651)
+[01:37:00] [Server thread/WARN] [FML]: *  at drzhark.mocreatures.init.MoCRecipes$RegistrationHandler.registerRecipes(MoCRecipes.java:99)
+[01:37:00] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_127_RegistrationHandler_registerRecipes_Register.invoke(.dynamic)
+[01:37:00] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[01:37:00] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)...
+[01:37:00] [Server thread/WARN] [FML]: ****************************************
+[01:37:00] [Server thread/WARN] [FML]: ****************************************
+[01:37:00] [Server thread/WARN] [FML]: * Invalid registration attempt for an Ore Dictionary item with name slabWood has occurred. The registration has been denied to prevent crashes. The mod responsible for the registration needs to correct this.
+[01:37:00] [Server thread/WARN] [FML]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:665)
+[01:37:00] [Server thread/WARN] [FML]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:651)
+[01:37:00] [Server thread/WARN] [FML]: *  at drzhark.mocreatures.init.MoCRecipes$RegistrationHandler.registerRecipes(MoCRecipes.java:117)
+[01:37:00] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_127_RegistrationHandler_registerRecipes_Register.invoke(.dynamic)
+[01:37:00] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[01:37:00] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)...
+[01:37:00] [Server thread/WARN] [FML]: ****************************************
+[01:37:00] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
+[01:37:00] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
+[01:37:00] [Server thread/INFO] [Spartan Shields]: Recipes added!
+[01:37:00] [Server thread/INFO] [FML]: Applying holder lookups
+[01:37:00] [Server thread/INFO] [FML]: Holder lookups applied
+[01:37:05] [Server thread/INFO] [Bewitchment]: It's a fact, she is exactly that!
+[01:37:05] [Server thread/INFO] [Bewitchment]: A harbinger of death from the world of witchcraft,
+[01:37:05] [Server thread/INFO] [Bewitchment]: And she's feeding them cakes and her ale to this innocent boy,
+[01:37:05] [Server thread/INFO] [Bewitchment]: And her magic brings dismay!
+[01:37:05] [Server thread/INFO] [Bewitchment]: I hear her in the wind, the bane of our town
+[01:37:05] [Server thread/INFO] [Bewitchment]: Come with me, father, I'm to expose a heathen
+[01:37:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tippedarrow`, expected `bewitchment`. This could be a intended override, but in most cases indicates a broken mod.
+[01:37:05] [Server thread/INFO] [divinerpg]: Registering custom triggers
+[01:37:05] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.egg@32767 = 1xitem.boiled_egg@0
+[01:37:05] [Server thread/INFO] [mocreatures]: Entity spawn registration complete.
+[01:37:05] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(2, 1) invalid, 1 smaller than 2
+[01:37:05] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(4, 1) invalid, 1 smaller than 4
+[01:37:05] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(10, 1) invalid, 1 smaller than 10
+[01:37:05] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(9, 1) invalid, 1 smaller than 9
+[01:37:05] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(3, 2) invalid, 2 smaller than 3
+[01:37:05] [Server thread/INFO] [Ice And Fire: RotN Edition]: The watcher waits on the northern wall
+[01:37:05] [Server thread/INFO] [Ice And Fire: RotN Edition]: A daughter picks up a warrior's sword
+[01:37:06] [Server thread/INFO] [Spartan Weaponry]: Registering OreDictionary entries
+[01:37:06] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
+[01:37:06] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
+[01:37:06] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:37:06] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:37:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/alchemy
+[01:37:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumcraft:research/eldritch
+[01:37:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/basics
+[01:37:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 23 research entries from thaumcraft:research/auromancy
+[01:37:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 12 research entries from thaumcraft:research/scans
+[01:37:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/artifice
+[01:37:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 4 research entries from crimsonwarfare:research/warfare
+[01:37:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/infusion
+[01:37:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 29 research entries from thaumcraft:research/golemancy
+[01:37:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 1 research entries from survivaltools:research/thaumic_regulator
+[01:37:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 3 research entries from bewitchment:tc/research/bewitchment
+[01:37:07] [Server thread/INFO] [GalacticraftCore]: Activating IndustrialCraft2 compatibility features.
+[01:37:07] [Server thread/INFO] [Ice And Fire: RotN Edition]: A brother bound to a love he must hide
+[01:37:07] [Server thread/INFO] [Ice And Fire: RotN Edition]: The younger's armor is worn in the mind
+[01:37:07] [Server thread/INFO] [Ice And Fire: RotN Edition]: A cold iron throne holds a boy barely grown
+[01:37:07] [Server thread/INFO] [Ice And Fire: RotN Edition]: And now it is known
+[01:37:07] [Server thread/INFO] [Ice And Fire: RotN Edition]: A claim to the prize, a crown laced in lies
+[01:37:07] [Server thread/INFO] [Ice And Fire: RotN Edition]: You win or you die
+[01:37:07] [Server thread/INFO] [Ice And Fire: RotN Edition]: Damn season 8 really sucked didn't it
+[01:37:07] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[01:37:07] [Server thread/INFO] [ic2.General]: ic2 version 2.8.222-ex112 loaded.
+[01:37:07] [Server thread/INFO] [xreliquary]: [xreliquary] Loaded successfully!
+[01:37:07] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
+[01:37:07] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 37 mods
+[01:37:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[01:37:08] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:08] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 1226 advancements
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 0
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 50 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 50
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 51 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 51
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 52 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 52
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 53 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 53
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 800 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 800
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 801 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 801
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 802 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 802
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 803 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 803
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 804 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 804
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 805 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 805
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 806 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 806
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 807 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 807
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 808 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 808
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 809 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 809
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 810 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 810
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 811 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 811
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 812 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 812
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 813 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 813
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 814 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 814
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 815 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 815
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 816 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 816
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 817 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 817
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 818 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 818
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 819 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 819
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 820 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 820
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 821 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 821
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 5 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 5
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 6 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 6
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 7
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 8 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 8
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 420 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 420
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 421 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 421
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 422 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 422
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 423 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 423
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 424 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 424
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 425 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 425
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 426 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 426
+[01:37:09] [Server thread/INFO] [FML]: Loading dimension 427 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 427
+[01:37:10] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:10] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 4
+[01:37:10] [Server thread/INFO] [FML]: Loading dimension -17 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:10] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -17
+[01:37:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[01:37:10] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.world.SRPSaveData:get:77]: nanissss--------asdddddddddddddddddddddddddddddddddddddddd----
+[01:37:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 4%
+[01:37:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 9%
+[01:37:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 15%
+[01:37:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 26%
+[01:37:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 38%
+[01:37:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 52%
+[01:37:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 66%
+[01:37:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 82%
+[01:37:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 98%
+[01:37:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (11.248s)! For help, type "help" or "?"
+[01:37:19] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -29
+[01:37:19] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -30
+[01:37:19] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -31
+[01:37:19] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -28
+[01:37:19] [Server thread/INFO] [XAT]: Trinkets and Baubles: Generating VIP List
+[01:37:19] [Server thread/INFO] [XAT]: Trinkets and Baubles: Finished Gathering VIP List, Took 33ms
+[01:37:19] [Server thread/INFO] [FML]: Loading dimension -31 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:19] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -31
+[01:37:19] [Server thread/INFO] [FML]: Loading dimension -29 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:19] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -29
+[01:37:19] [Server thread/INFO] [FML]: Loading dimension -28 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:19] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -28
+[01:37:19] [Server thread/INFO] [FML]: Loading dimension -30 (world) (net.minecraft.server.dedicated.DedicatedServer@3e0e19d2)
+[01:37:19] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -30
+[01:37:19] [Thread-5/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
+[01:37:19] [Thread-6/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[01:37:19] [Thread-7/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
+[01:37:19] [Thread-8/INFO] [THAUMCRAFT]: Starting aura thread for dim 50
+[01:37:19] [Thread-9/INFO] [THAUMCRAFT]: Starting aura thread for dim 51
+[01:37:19] [Thread-10/INFO] [THAUMCRAFT]: Starting aura thread for dim 52
+[01:37:19] [Thread-11/INFO] [THAUMCRAFT]: Starting aura thread for dim 53
+[01:37:19] [Thread-13/INFO] [THAUMCRAFT]: Starting aura thread for dim 801
+[01:37:19] [Thread-12/INFO] [THAUMCRAFT]: Starting aura thread for dim 800
+[01:37:19] [Thread-14/INFO] [THAUMCRAFT]: Starting aura thread for dim 802
+[01:37:19] [Thread-15/INFO] [THAUMCRAFT]: Starting aura thread for dim 803
+[01:37:19] [Thread-16/INFO] [THAUMCRAFT]: Starting aura thread for dim 804
+[01:37:19] [Thread-17/INFO] [THAUMCRAFT]: Starting aura thread for dim 805
+[01:37:19] [Thread-18/INFO] [THAUMCRAFT]: Starting aura thread for dim 806
+[01:37:19] [Thread-19/INFO] [THAUMCRAFT]: Starting aura thread for dim 807
+[01:37:19] [Thread-20/INFO] [THAUMCRAFT]: Starting aura thread for dim 808
+[01:37:19] [Thread-21/INFO] [THAUMCRAFT]: Starting aura thread for dim 809
+[01:37:19] [Thread-22/INFO] [THAUMCRAFT]: Starting aura thread for dim 810
+[01:37:19] [Thread-23/INFO] [THAUMCRAFT]: Starting aura thread for dim 811
+[01:37:19] [Thread-24/INFO] [THAUMCRAFT]: Starting aura thread for dim 812
+[01:37:19] [Thread-25/INFO] [THAUMCRAFT]: Starting aura thread for dim 813
+[01:37:19] [Thread-26/INFO] [THAUMCRAFT]: Starting aura thread for dim 814
+[01:37:19] [Thread-27/INFO] [THAUMCRAFT]: Starting aura thread for dim 815
+[01:37:19] [Thread-28/INFO] [THAUMCRAFT]: Starting aura thread for dim 816
+[01:37:19] [Thread-29/INFO] [THAUMCRAFT]: Starting aura thread for dim 817
+[01:37:19] [Thread-31/INFO] [THAUMCRAFT]: Starting aura thread for dim 819
+[01:37:19] [Thread-32/INFO] [THAUMCRAFT]: Starting aura thread for dim 820
+[01:37:19] [Thread-30/INFO] [THAUMCRAFT]: Starting aura thread for dim 818
+[01:37:19] [Thread-33/INFO] [THAUMCRAFT]: Starting aura thread for dim 821
+[01:37:19] [Thread-34/INFO] [THAUMCRAFT]: Starting aura thread for dim 5
+[01:37:19] [Thread-35/INFO] [THAUMCRAFT]: Starting aura thread for dim 6
+[01:37:19] [Thread-36/INFO] [THAUMCRAFT]: Starting aura thread for dim 7
+[01:37:19] [Thread-37/INFO] [THAUMCRAFT]: Starting aura thread for dim 8
+[01:37:19] [Thread-38/INFO] [THAUMCRAFT]: Starting aura thread for dim 420
+[01:37:19] [Thread-39/INFO] [THAUMCRAFT]: Starting aura thread for dim 421
+[01:37:19] [Thread-40/INFO] [THAUMCRAFT]: Starting aura thread for dim 422
+[01:37:19] [Thread-41/INFO] [THAUMCRAFT]: Starting aura thread for dim 423
+[01:37:19] [Thread-42/INFO] [THAUMCRAFT]: Starting aura thread for dim 424
+[01:37:19] [Thread-43/INFO] [THAUMCRAFT]: Starting aura thread for dim 425
+[01:37:19] [Thread-44/INFO] [THAUMCRAFT]: Starting aura thread for dim 426
+[01:37:19] [Thread-45/INFO] [THAUMCRAFT]: Starting aura thread for dim 427
+[01:37:19] [Thread-46/INFO] [THAUMCRAFT]: Starting aura thread for dim 4
+[01:37:19] [Thread-47/INFO] [THAUMCRAFT]: Starting aura thread for dim -17
+[01:37:19] [Thread-48/INFO] [THAUMCRAFT]: Starting aura thread for dim -31
+[01:37:20] [Thread-49/INFO] [THAUMCRAFT]: Starting aura thread for dim -29
+[01:37:20] [Thread-50/INFO] [THAUMCRAFT]: Starting aura thread for dim -28
+[01:37:20] [Thread-51/INFO] [THAUMCRAFT]: Starting aura thread for dim -30
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 1
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 1
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 50
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 50
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 51
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 51
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 52
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 52
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 53
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 53
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 800
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 800
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 801
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 801
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 802
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 802
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 803
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 803
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 804
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 804
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 805
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 805
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 806
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 806
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 807
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 807
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 808
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 808
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 809
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 809
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 810
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 810
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 811
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 811
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 812
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 812
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 813
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 813
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 814
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 814
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 815
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 815
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 816
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 816
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 817
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 817
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 818
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 818
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 819
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 819
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 820
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 820
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 821
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 821
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 5
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 5
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 6
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 6
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 7
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 7
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 8
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 8
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 420
+[01:37:20] [Server thread/INFO] [FML]: Unloading dimension 420
+[01:37:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 421
+[01:37:21] [Server thread/INFO] [FML]: Unloading dimension 421
+[01:37:21] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 422
+[01:37:21] [Server thread/INFO] [FML]: Unloading dimension 422
+[01:37:21] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 423
+[01:37:21] [Server thread/INFO] [FML]: Unloading dimension 423
+[01:37:21] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 424
+[01:37:21] [Server thread/INFO] [FML]: Unloading dimension 424
+[01:37:21] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 425
+[01:37:21] [Server thread/INFO] [FML]: Unloading dimension 425
+[01:37:21] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 426
+[01:37:21] [Server thread/INFO] [FML]: Unloading dimension 426
+[01:37:21] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 427
+[01:37:21] [Server thread/INFO] [FML]: Unloading dimension 427
+[01:37:21] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 4
+[01:37:21] [Server thread/INFO] [FML]: Unloading dimension 4
+[01:37:21] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -17
+[01:37:21] [Server thread/INFO] [FML]: Unloading dimension -17
+[01:37:21] [Thread-6/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[01:37:21] [Thread-7/INFO] [THAUMCRAFT]: Stopping aura thread for dim 1
+[01:37:21] [Thread-9/INFO] [THAUMCRAFT]: Stopping aura thread for dim 51
+[01:37:21] [Thread-12/INFO] [THAUMCRAFT]: Stopping aura thread for dim 800
+[01:37:21] [Thread-11/INFO] [THAUMCRAFT]: Stopping aura thread for dim 53
+[01:37:21] [Thread-14/INFO] [THAUMCRAFT]: Stopping aura thread for dim 802
+[01:37:21] [Thread-10/INFO] [THAUMCRAFT]: Stopping aura thread for dim 52
+[01:37:21] [Thread-16/INFO] [THAUMCRAFT]: Stopping aura thread for dim 804
+[01:37:21] [Thread-8/INFO] [THAUMCRAFT]: Stopping aura thread for dim 50
+[01:37:21] [Thread-15/INFO] [THAUMCRAFT]: Stopping aura thread for dim 803
+[01:37:21] [Thread-13/INFO] [THAUMCRAFT]: Stopping aura thread for dim 801
+[01:37:21] [Thread-17/INFO] [THAUMCRAFT]: Stopping aura thread for dim 805
+[01:37:21] [Thread-18/INFO] [THAUMCRAFT]: Stopping aura thread for dim 806
+[01:37:21] [Thread-19/INFO] [THAUMCRAFT]: Stopping aura thread for dim 807
+[01:37:21] [Thread-20/INFO] [THAUMCRAFT]: Stopping aura thread for dim 808
+[01:37:21] [Thread-21/INFO] [THAUMCRAFT]: Stopping aura thread for dim 809
+[01:37:21] [Thread-22/INFO] [THAUMCRAFT]: Stopping aura thread for dim 810
+[01:37:21] [Thread-23/INFO] [THAUMCRAFT]: Stopping aura thread for dim 811
+[01:37:21] [Thread-24/INFO] [THAUMCRAFT]: Stopping aura thread for dim 812
+[01:37:21] [Thread-25/INFO] [THAUMCRAFT]: Stopping aura thread for dim 813
+[01:37:21] [Thread-26/INFO] [THAUMCRAFT]: Stopping aura thread for dim 814
+[01:37:21] [Thread-27/INFO] [THAUMCRAFT]: Stopping aura thread for dim 815
+[01:37:21] [Thread-28/INFO] [THAUMCRAFT]: Stopping aura thread for dim 816
+[01:37:21] [Thread-29/INFO] [THAUMCRAFT]: Stopping aura thread for dim 817
+[01:37:21] [Thread-31/INFO] [THAUMCRAFT]: Stopping aura thread for dim 819
+[01:37:21] [Thread-32/INFO] [THAUMCRAFT]: Stopping aura thread for dim 820
+[01:37:21] [Thread-30/INFO] [THAUMCRAFT]: Stopping aura thread for dim 818
+[01:37:21] [Thread-33/INFO] [THAUMCRAFT]: Stopping aura thread for dim 821
+[01:37:21] [Thread-34/INFO] [THAUMCRAFT]: Stopping aura thread for dim 5
+[01:37:21] [Thread-35/INFO] [THAUMCRAFT]: Stopping aura thread for dim 6
+[01:37:21] [Thread-36/INFO] [THAUMCRAFT]: Stopping aura thread for dim 7
+[01:37:21] [Thread-37/INFO] [THAUMCRAFT]: Stopping aura thread for dim 8
+[01:37:21] [Thread-38/INFO] [THAUMCRAFT]: Stopping aura thread for dim 420
+[01:37:22] [Thread-39/INFO] [THAUMCRAFT]: Stopping aura thread for dim 421
+[01:37:22] [Thread-40/INFO] [THAUMCRAFT]: Stopping aura thread for dim 422
+[01:37:22] [Thread-42/INFO] [THAUMCRAFT]: Stopping aura thread for dim 424
+[01:37:22] [Thread-41/INFO] [THAUMCRAFT]: Stopping aura thread for dim 423
+[01:37:22] [Thread-43/INFO] [THAUMCRAFT]: Stopping aura thread for dim 425
+[01:37:22] [Thread-44/INFO] [THAUMCRAFT]: Stopping aura thread for dim 426
+[01:37:22] [Thread-45/INFO] [THAUMCRAFT]: Stopping aura thread for dim 427
+[01:37:22] [Thread-46/INFO] [THAUMCRAFT]: Stopping aura thread for dim 4
+[01:37:22] [Thread-47/INFO] [THAUMCRAFT]: Stopping aura thread for dim -17
+[01:37:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4750ms behind, skipping 95 tick(s)
+[01:38:39] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[01:38:39] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 43 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,croparia@2.4,fm@1.8,baubles@1.5.2,aoa3@3.3.6,locks@3.0.0,jei@4.16.1.1012,crimsonwarfare@1.5,lycanitesmobs@2.0.8.10 - MC 1.12.2,mocreatures@12.4.5,patchouli@1.0-23.6,ic2@2.8.222-ex112,spartanshields@1.5.5,abyssalcraft@2.0.0-BETA-1,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,toughasnails@3.1.0.141,spartanfire@0.4,bewitchment@0.22.63,inventoryhud@3.4.4,FML@8.0.99.99,survivaltools@1.12.2-1.0.0,tombstone@4.7.4,xreliquary@1.12.2-1.3.4.796,llibrary@1.7.20,srparasites@1.9.21,xat@0.32.5,spartanweaponry@1.6.0,iceandfire@1.9.1-1.3.3,waila@1.8.26,aether_legacy@1.5.3.2,galacticraftplanets@4.0.6,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.6,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,forge@14.23.5.2860,divinerpg@1.7.1,swparasites@v3.1
+[01:38:46] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:38:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Seb0401[/127.178.52.72:33737] logged in with entity id 3342 at (178.5, 70.0, 84.5)
+[01:38:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 joined the game
+[01:38:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has made the advancement [Christmas]
+[01:38:46] [Server thread/INFO] [XAT]: Syncing Config to Seb0401
+[01:38:46] [Thread-55/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 143ad5bb-426f-3bb8-9dbc-3d0cd8b05986.
+[01:38:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has made the advancement [Ice and Fire]
+[01:39:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Seb0401 lost connection: Timed out
+[01:39:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 left the game
+[01:39:16] [Server thread/WARN] [FML]: Lycanites Mobs loaded a new chunk [-10, 5] in dimension 0 (overworld) while populating chunk [-9, 5], causing cascading worldgen lag.
+[01:39:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:39:16] [Server thread/WARN] [FML]: Lycanites Mobs loaded a new chunk [-10, 4] in dimension 0 (overworld) while populating chunk [-9, 5], causing cascading worldgen lag.
+[01:39:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:39:46] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[01:39:46] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 43 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,croparia@2.4,fm@1.8,baubles@1.5.2,aoa3@3.3.6,locks@3.0.0,jei@4.16.1.1012,crimsonwarfare@1.5,lycanitesmobs@2.0.8.10 - MC 1.12.2,mocreatures@12.4.5,patchouli@1.0-23.6,ic2@2.8.222-ex112,spartanshields@1.5.5,abyssalcraft@2.0.0-BETA-1,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,toughasnails@3.1.0.141,spartanfire@0.4,bewitchment@0.22.63,inventoryhud@3.4.4,FML@8.0.99.99,survivaltools@1.12.2-1.0.0,tombstone@4.7.4,xreliquary@1.12.2-1.3.4.796,llibrary@1.7.20,srparasites@1.9.21,xat@0.32.5,spartanweaponry@1.6.0,iceandfire@1.9.1-1.3.3,waila@1.8.26,aether_legacy@1.5.3.2,galacticraftplanets@4.0.6,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.6,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,forge@14.23.5.2860,divinerpg@1.7.1,swparasites@v3.1
+[01:39:50] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:39:50] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Seb0401[/127.178.52.72:52955] logged in with entity id 8480 at (178.5, 70.0, 84.5)
+[01:39:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 joined the game
+[01:39:50] [Server thread/INFO] [XAT]: Syncing Config to Seb0401
+[01:40:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Seb0401 lost connection: Timed out
+[01:40:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 left the game
+[01:40:32] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[01:40:32] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 43 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,croparia@2.4,fm@1.8,baubles@1.5.2,aoa3@3.3.6,locks@3.0.0,jei@4.16.1.1012,crimsonwarfare@1.5,lycanitesmobs@2.0.8.10 - MC 1.12.2,mocreatures@12.4.5,patchouli@1.0-23.6,ic2@2.8.222-ex112,spartanshields@1.5.5,abyssalcraft@2.0.0-BETA-1,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,toughasnails@3.1.0.141,spartanfire@0.4,bewitchment@0.22.63,inventoryhud@3.4.4,FML@8.0.99.99,survivaltools@1.12.2-1.0.0,tombstone@4.7.4,xreliquary@1.12.2-1.3.4.796,llibrary@1.7.20,srparasites@1.9.21,xat@0.32.5,spartanweaponry@1.6.0,iceandfire@1.9.1-1.3.3,waila@1.8.26,aether_legacy@1.5.3.2,galacticraftplanets@4.0.6,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.6,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,forge@14.23.5.2860,divinerpg@1.7.1,swparasites@v3.1
+[01:40:37] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:40:37] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Seb0401[/127.178.52.72:53295] logged in with entity id 12935 at (178.5, 70.0, 84.5)
+[01:40:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 joined the game
+[01:40:37] [Server thread/INFO] [XAT]: Syncing Config to Seb0401
+[01:40:58] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[01:40:59] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 43 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,croparia@2.4,fm@1.8,baubles@1.5.2,aoa3@3.3.6,locks@3.0.0,jei@4.16.1.1012,crimsonwarfare@1.5,lycanitesmobs@2.0.8.10 - MC 1.12.2,mocreatures@12.4.5,patchouli@1.0-23.6,ic2@2.8.222-ex112,spartanshields@1.5.5,abyssalcraft@2.0.0-BETA-1,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,toughasnails@3.1.0.141,spartanfire@0.4,bewitchment@0.22.63,inventoryhud@3.4.4,FML@8.0.99.99,survivaltools@1.12.2-1.0.0,tombstone@4.7.4,xreliquary@1.12.2-1.3.4.796,llibrary@1.7.20,srparasites@1.9.21,xat@0.32.5,spartanweaponry@1.6.0,iceandfire@1.9.1-1.3.3,waila@1.8.26,aether_legacy@1.5.3.2,galacticraftplanets@4.0.6,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.6,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,forge@14.23.5.2860,divinerpg@1.7.1,swparasites@v3.1
+[01:41:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:41:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: linkol_shg[/127.95.7.111:46491] logged in with entity id 19030 at (180.5, 69.0, 83.5)
+[01:41:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: linkol_shg joined the game
+[01:41:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: linkol_shg has made the advancement [Christmas]
+[01:41:02] [Server thread/INFO] [XAT]: Syncing Config to linkol_shg
+[01:41:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: linkol_shg has made the advancement [Ice and Fire]
+[01:41:02] [Thread-61/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 555c36f2-0963-32c1-a2b5-8127183b5af6.
+[01:41:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: linkol_shg lost connection: Disconnected
+[01:41:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: linkol_shg left the game
+[01:42:53] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [AbyssalCraft, Advent Of Ascension, Baubles, Bewitchment, Corail Tombstone, Crimson Warfare, Croparia, DivineRPG, DrZhark's Mo'Creatures Extended, Fun Mod, Galacticraft, Galacticraft Planets, Ice and Fire: RotN Edition, IndustrialCraft 2, LLibrary, Locks, Lycanites Mobs, Patchouli, Reliquary, SRP: Combat Addon (by NoCube), Scape and Run Parasites, Scape and Spartan: Parasites, Spartan Fire, Spartan Shields, Spartan Weaponry, Survival Tools, Thaumcraft, The Aether, Tough As Nails, Traveler's Backpack, Trinkets and Baubles, Waystones]
+[01:43:11] [Netty Epoll Server IO #4/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [AbyssalCraft, Advent Of Ascension, Baubles, Bewitchment, Corail Tombstone, Crimson Warfare, Croparia, DivineRPG, DrZhark's Mo'Creatures Extended, Fun Mod, Galacticraft, Galacticraft Planets, Ice and Fire: RotN Edition, IndustrialCraft 2, LLibrary, Locks, Lycanites Mobs, Patchouli, Reliquary, SRP: Combat Addon (by NoCube), Scape and Run Parasites, Scape and Spartan: Parasites, Spartan Fire, Spartan Shields, Spartan Weaponry, Survival Tools, Thaumcraft, The Aether, Tough As Nails, Traveler's Backpack, Trinkets and Baubles, Waystones]
+[01:43:22] [Netty Epoll Server IO #6/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [AbyssalCraft, Advent Of Ascension, Baubles, Bewitchment, Corail Tombstone, Crimson Warfare, Croparia, DivineRPG, DrZhark's Mo'Creatures Extended, Fun Mod, Galacticraft, Galacticraft Planets, Ice and Fire: RotN Edition, IndustrialCraft 2, LLibrary, Locks, Lycanites Mobs, Patchouli, Reliquary, SRP: Combat Addon (by NoCube), Scape and Run Parasites, Scape and Spartan: Parasites, Spartan Fire, Spartan Shields, Spartan Weaponry, Survival Tools, Thaumcraft, The Aether, Tough As Nails, Traveler's Backpack, Trinkets and Baubles, Waystones]
+[01:43:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 was slain by Charger
+[01:43:50] [Server thread/INFO] [tombstone]: The last known grave of Seb0401 is at location [name:Last Grave, x:93, y:72, z:89] in the dimension 0
+[01:43:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has made the advancement [Your First Grave]
+[01:43:50] [Server thread/INFO] [tombstone]: Seb0401 has successfully been saved
+[01:43:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has made the advancement [The Most Useful Key]
+[01:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has made the advancement [Knowledge of Death]
+[01:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has reached the goal [A Fast Comeback]
+[01:44:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 was slain by Charger
+[01:44:31] [Server thread/INFO] [tombstone]: The last known grave of Seb0401 is at location [name:Last Grave, x:95, y:73, z:84] in the dimension 0
+[01:44:31] [Server thread/INFO] [tombstone]: Seb0401 has successfully been saved
+[01:44:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has reached the goal [Here They Come]
+[01:44:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has reached the goal [Chain Death]
+[01:44:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 was slain by Verdant Maka Alpha  Lvl 4
+[01:44:56] [Server thread/INFO] [tombstone]: The last known grave of Seb0401 is at location [name:Last Grave, x:98, y:73, z:76] in the dimension 0
+[01:44:56] [Server thread/INFO] [tombstone]: Seb0401 has successfully been saved
+[01:45:37] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[01:45:37] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 43 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,croparia@2.4,fm@1.8,baubles@1.5.2,aoa3@3.3.6,locks@3.0.0,jei@4.16.1.1012,crimsonwarfare@1.5,lycanitesmobs@2.0.8.10 - MC 1.12.2,mocreatures@12.4.5,patchouli@1.0-23.6,ic2@2.8.222-ex112,spartanshields@1.5.5,abyssalcraft@2.0.0-BETA-1,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,toughasnails@3.1.0.141,spartanfire@0.4,bewitchment@0.22.63,inventoryhud@3.4.4,FML@8.0.99.99,survivaltools@1.12.2-1.0.0,tombstone@4.7.4,xreliquary@1.12.2-1.3.4.796,llibrary@1.7.20,srparasites@1.9.21,xat@0.32.5,spartanweaponry@1.6.0,iceandfire@1.9.1-1.3.3,waila@1.8.26,aether_legacy@1.5.3.2,galacticraftplanets@4.0.6,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.6,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,forge@14.23.5.2860,divinerpg@1.7.1,swparasites@v3.1
+[01:45:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: linkol_shg lost connection: Disconnected
+[01:45:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: linkol_shg left the game
+[01:45:56] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[01:45:56] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 43 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,croparia@2.4,fm@1.8,baubles@1.5.2,aoa3@3.3.6,locks@3.0.0,jei@4.16.1.1012,crimsonwarfare@1.5,lycanitesmobs@2.0.8.10 - MC 1.12.2,mocreatures@12.4.5,patchouli@1.0-23.6,ic2@2.8.222-ex112,spartanshields@1.5.5,abyssalcraft@2.0.0-BETA-1,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,toughasnails@3.1.0.141,spartanfire@0.4,bewitchment@0.22.63,inventoryhud@3.4.4,FML@8.0.99.99,survivaltools@1.12.2-1.0.0,tombstone@4.7.4,xreliquary@1.12.2-1.3.4.796,llibrary@1.7.20,srparasites@1.9.21,xat@0.32.5,spartanweaponry@1.6.0,iceandfire@1.9.1-1.3.3,waila@1.8.26,aether_legacy@1.5.3.2,galacticraftplanets@4.0.6,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.6,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,forge@14.23.5.2860,divinerpg@1.7.1,swparasites@v3.1
+[01:46:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:46:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: linkol_shg[/127.95.7.111:47031] logged in with entity id 116322 at (180.5, 69.0, 83.5)
+[01:46:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: linkol_shg joined the game
+[01:46:00] [Server thread/INFO] [XAT]: Syncing Config to linkol_shg
